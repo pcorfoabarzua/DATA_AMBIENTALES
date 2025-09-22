@@ -1,0 +1,68 @@
+
+CONEXION SERVIDOR REMOTO JUREL 
+
+usuario :robalo\jurel
+pass : 5102Gest1on
+
+
+link de indicadores_web_test
+http://oceano1.ifop.cl/indicadores_web_test/scripts/php/indicadores.php
+
+------------------------------
+
+IFOPING 
+
+    USER : FABARZUA
+    PASS : abarzua2024
+
+---------------------------
+
+STAGE_CORFO 
+USER : STAGE_CORFO
+PASS :  stage%2023
+
+---------------------------
+
+ DESAING
+ USER : FABARZUA_CORFO
+ PASS : fabarzua%2023
+
+----------------------------
+
+MAREA_ROJA
+
+bd: desaing
+usuario: MAREA_ROJA
+pass: mr2017
+
+---------------------------------
+
+desaing
+MITILIDOS
+mtd$2024
+
+--------------------------------------
+
+DESAING
+Usuario: LAGOS
+Pass: 
+lgs$2024
+----------------------------------------
+
+CONEXION ORACLE TALEND 
+
+192.168.169.249
+PUERTO : 1521
+SERVICE NAME : DESAING 
+
+
+----------------------------------------
+
+DESAING
+
+bd: SEG_AMBIENTAL
+pass: segamb2025
+
+----------------------------------------
+
+
